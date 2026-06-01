@@ -1,4 +1,4 @@
-# Agentix — CLI AI Agent powered by Ollama
+# Agentix — CLI AI Agent
 
 A lightweight, agentic command-line AI assistant that can use **any tool-capable LLM** (via Ollama) with real tool-use: run shell commands, read/write files, browse the web, and list directories. All file and shell operations are safely sandboxed in the `agent-files/` directory.
 
